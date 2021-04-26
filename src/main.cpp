@@ -2,7 +2,7 @@
 #include <WebUSB.h>
 #include <Servo.h>
 
-WebUSB WebUSBSerial(1 /* https:// */, "thomas-edison.patrickgawel.repl.co");
+WebUSB WebUSBSerial(1 /* http:// */, "virtual-star-chart.presentmonkey.me");
 Servo myservo;
 
 #define ledPin 13
